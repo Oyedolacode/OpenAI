@@ -1,4 +1,4 @@
-# LIVE SITE(https://gorgeous-dieffenbachia-c9932c.netlify.app)
+# [LIVE SITE](https://gorgeous-dieffenbachia-c9932c.netlify.app)
 
 ![68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67](https://user-images.githubusercontent.com/57501994/162319628-c815efb0-1e93-4b69-abed-dc39267bd30d.png)
 
@@ -19,7 +19,7 @@ You might be wondering, what i learnt alongside building the website, i learnt t
 
 -Perfectly placed media queries for satisfactory responsiveness covering almost devices
 
-# Figma design followed(https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3)
+# [Figma design followed](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3)
 Salute to AR Shakir's Designs
 
 # Getting Started with Create React App
