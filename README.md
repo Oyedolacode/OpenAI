@@ -1,6 +1,21 @@
-# LIVE STIE
+# LIVE SItE
 
 ![68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67](https://user-images.githubusercontent.com/57501994/162319628-c815efb0-1e93-4b69-abed-dc39267bd30d.png)
+
+# Introduction
+This is a code repository for my latest react.js project.
+
+You might be wondering, what i learnt alongside building the website, i learnt the following:
+
+-React Functional components and their reusability
+-React file and folder structure
+-Fundamental CSS properties to master flex & grid
+-Fundamentals of the CSS BEM Model
+-From soft and pleasant animations to complex gradients
+-Perfectly placed media queries for satisfactory responsiveness covering almost devices
+
+# Figma design followed(https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3)
+Salute to AR Shakir's Designs
 
 # Getting Started with Create React App
 
