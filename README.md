@@ -8,10 +8,15 @@ This is a code repository for my latest react.js project.
 You might be wondering, what i learnt alongside building the website, i learnt the following:
 
 -React Functional components and their reusability
+
 -React file and folder structure
+
 -Fundamental CSS properties to master flex & grid
+
 -Fundamentals of the CSS BEM Model
+
 -From soft and pleasant animations to complex gradients
+
 -Perfectly placed media queries for satisfactory responsiveness covering almost devices
 
 # Figma design followed(https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3)
